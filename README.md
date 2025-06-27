@@ -10,8 +10,8 @@ An autonomous AI assistant created by Red-Opera that leverages Ollama to automat
 - **Creator:** Red-Opera (RedZoo)
 - **Language:** Python  
 - **Supported Version:** Python 3.13  
-- **Project Engine:** Ollama  
-- **License:** MIT
+- **Project Engine:** Ollama (DeepSeek), Chat GPT
+- **License:** GPL-3.0
 
 ---
 
